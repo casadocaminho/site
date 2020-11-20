@@ -21,6 +21,7 @@
 .title {
     font-size: 68px;
     margin-bottom: 80px;
+    text-shadow: 4px 4px 50px black;
 }
 
 .text {
